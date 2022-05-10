@@ -2,6 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+Deployed on Firebase, Link: [VT's Netflix](https://netflix-clone-1330d.web.app/)
+
 In the project directory, you can run:
 
 ### `npm start`
