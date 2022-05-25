@@ -42,6 +42,5 @@ function Nav() {
     </div>
   </div>);
 }
-// https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png 
 
 export default Nav;
