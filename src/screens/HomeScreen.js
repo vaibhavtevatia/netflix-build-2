@@ -34,7 +34,7 @@ function HomeScreen() {
       fetchUrl={requests.fetchTopRated} />
       
 
-      {/* test rows delete later*/}
+      {/* test rows*/}
 
 
       <Row 
