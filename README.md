@@ -4,6 +4,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Deployed on Firebase, Link: [VT's Netflix](https://netflix-clone-1330d.web.app/)
 
+LogIn Screen:
+<img src="preview/Screenshot (37).png" alt="log" />
+
+SignUp Screen:
+<img src="preview/Screenshot (38).png" alt="sign" />
+
+Home Screen:
+<img src="preview/Screenshot (39).png" alt="home" />
+
 In the project directory, you can run:
 
 ### `npm start`
