@@ -8,7 +8,7 @@ LogIn Screen:
 
 <img src="preview/Screenshot (37).png" alt="log" />
 
-SignUp Screen:
+SignUp Screen: CLICK ON "Sign Up now" to sign up as a new user
 
 <img src="preview/Screenshot (38).png" alt="sign" />
 
